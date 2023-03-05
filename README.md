@@ -54,7 +54,7 @@
 </details>
 <details>
  <summary>
-  <strong>Pengamanannya (The Security)</strong>
+  Pengamanannya (The Security)
  </summary>
  <ol type='i'>
   <li>Software Defined Security
@@ -71,7 +71,7 @@
  </ol>
 </details>
 <details>
- <summary><strong>Pengujian (The Test)</strong></summary>
+ <summary>Pengujian (The Test)</summary>
  <ol type='i'>
   <li>Cloud Resources Isolation
    <p>Mencegah serangan pivot VM ke VM.</p>
